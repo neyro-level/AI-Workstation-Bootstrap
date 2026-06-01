@@ -11,6 +11,7 @@
 - PowerShell 7
 - Codex CLI
 - Doppler CLI
+- Pencil VS Code Extension
 
 Опционально:
 
@@ -18,4 +19,4 @@
 - Playwright
 - LibreOffice
 - Pandoc
-
+- Pencil CLI
