@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil Design System"
+  short_description: "Tokens, variables, lint и handoff Pencil"
+  default_prompt: "Проверь дизайн-систему Pencil: variables, tokens, consistency и handoff."

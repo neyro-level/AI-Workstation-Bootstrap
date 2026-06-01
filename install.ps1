@@ -18,6 +18,11 @@ $folders = @(
   "design-base",
   "codex-template",
   "codex-template/skills",
+  "codex-template/skills/pencil-os",
+  "codex-template/skills/pencil-mcp-operator",
+  "codex-template/skills/pencil-modern-ui",
+  "codex-template/skills/pencil-b2b-sites",
+  "codex-template/skills/pencil-design-system",
   "archive"
 )
 
@@ -32,4 +37,4 @@ Write-Host "1. Fill business-profile/PROFILE.md"
 Write-Host "2. Create a project in projects/"
 Write-Host "3. Set up secrets in Doppler"
 Write-Host "4. Copy Codex templates only after reviewing docs/03-codex-setup.md"
-
+Write-Host "5. Optional: install Pencil OS skills with scripts/install-pencil-skills.ps1"

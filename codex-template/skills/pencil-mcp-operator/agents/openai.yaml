@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil MCP Operator"
+  short_description: "Операции с .pen через Pencil MCP"
+  default_prompt: "Проверь активный .pen через get_editor_state и продолжи безопасно."

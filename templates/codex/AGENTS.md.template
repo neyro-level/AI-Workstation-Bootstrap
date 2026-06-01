@@ -34,3 +34,24 @@
 Не коммитить `.env`.
 Использовать Doppler или другой secrets manager.
 
+## Skills
+
+Пользовательские Codex skills хранить в глобальной папке Codex skills, например:
+
+```text
+~/.codex/skills
+```
+
+В этот template входят базовые skills:
+
+- `copywriter`;
+- `design-ux`;
+- `pencil-os`;
+- `pencil-mcp-operator`;
+- `pencil-modern-ui`;
+- `pencil-b2b-sites`;
+- `pencil-design-system`.
+
+Если задача связана с Pencil, `.pen`, canvas, Pencil MCP, Pencil CLI, дизайном в Pencil или экспортом из Pencil, использовать `pencil-os` как главный роутер.
+
+Для реального `.pen` не читать файл обычными shell-командами. Работать через Pencil UI, Pencil MCP или Pencil CLI. Первое действие агента в открытом `.pen`: `get_editor_state({ include_schema: true })`.

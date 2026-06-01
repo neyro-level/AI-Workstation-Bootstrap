@@ -49,6 +49,19 @@ AI работает лучше, когда у него есть:
 4. Установите Codex и скопируйте `codex-template/` в вашу глобальную папку Codex по инструкции `docs/03-codex-setup.md`.
 5. Секреты храните только в Doppler или другом password/secrets manager.
 6. Если планируете работать с дизайном внутри VS Code, настройте Pencil по `docs/08-pencil-setup.md`.
+7. Для установки Pencil OS skills в Codex используйте `docs/09-pencil-os-skills.md` или `scripts/install-pencil-skills.ps1`.
+
+## Pencil OS
+
+В комплект входит мини-операционная система skills для Pencil.dev:
+
+- `pencil-os` — главный роутер Pencil-задач;
+- `pencil-mcp-operator` — безопасная работа с `.pen` через Pencil MCP;
+- `pencil-modern-ui` — современный UI, shadcn/Radix, Heroicons, anti-AI-slop;
+- `pencil-b2b-sites` — B2B-сайты, Hero, CTA, формы, каталоги;
+- `pencil-design-system` — tokens, variables, lint, export/handoff.
+
+Установка описана в `docs/09-pencil-os-skills.md`.
 
 ## Безопасность
 

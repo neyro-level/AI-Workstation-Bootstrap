@@ -15,6 +15,14 @@ C:\Users\<User>\.codex
 - `templates/codex/AGENTS.md.template` → `.codex/AGENTS.md`
 - `codex-template/skills/*` → `.codex/skills/*`
 
+Для Pencil OS можно использовать готовый скрипт:
+
+```powershell
+.\scripts\install-pencil-skills.ps1
+```
+
+После установки skills перезапустите Codex / IDE extension / CLI session.
+
 ## Важно
 
 Не храните в публичном репозитории:
@@ -25,3 +33,12 @@ C:\Users\<User>\.codex
 - историю сессий;
 - sqlite базы Codex.
 
+## Проверка
+
+После перезапуска Codex проверьте, что доступны:
+
+- `pencil-os`;
+- `pencil-mcp-operator`;
+- `pencil-modern-ui`;
+- `pencil-b2b-sites`;
+- `pencil-design-system`.

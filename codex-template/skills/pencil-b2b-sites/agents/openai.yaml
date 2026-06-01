@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil B2B Sites"
+  short_description: "B2B-страницы и лендинги в Pencil"
+  default_prompt: "Спроектируй B2B-блок для сайта в Pencil с ясной коммерческой ролью."

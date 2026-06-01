@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil Modern UI"
+  short_description: "Современный UI-дизайн в Pencil"
+  default_prompt: "Спроектируй современный UI в Pencil без визуального шума и с компонентной логикой."

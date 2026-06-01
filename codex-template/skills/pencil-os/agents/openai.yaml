@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil OS"
+  short_description: "Роутер Pencil workflows"
+  default_prompt: "Определи режим Pencil-задачи и подключи нужные Pencil skills."
