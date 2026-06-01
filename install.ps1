@@ -18,6 +18,7 @@ $folders = @(
   "design-base",
   "codex-template",
   "codex-template/skills",
+  "codex-template/skills/skill-creator",
   "codex-template/skills/pencil-os",
   "codex-template/skills/pencil-mcp-operator",
   "codex-template/skills/pencil-modern-ui",

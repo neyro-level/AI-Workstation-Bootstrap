@@ -51,6 +51,13 @@ AI работает лучше, когда у него есть:
 6. Если планируете работать с дизайном внутри VS Code, настройте Pencil по `docs/08-pencil-setup.md`.
 7. Для установки Pencil OS skills в Codex используйте `docs/09-pencil-os-skills.md` или `scripts/install-pencil-skills.ps1`.
 
+## Codex skills
+
+В `codex-template/skills/` лежат базовые skills для рабочей станции:
+
+- `skill-creator` — создание и обновление Codex skills по официальной структуре OpenAI;
+- Pencil OS skills — набор навыков для работы с Pencil.dev.
+
 ## Pencil OS
 
 В комплект входит мини-операционная система skills для Pencil.dev:

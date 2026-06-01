@@ -37,6 +37,7 @@ C:\Users\<User>\.codex
 
 После перезапуска Codex проверьте, что доступны:
 
+- `skill-creator`;
 - `pencil-os`;
 - `pencil-mcp-operator`;
 - `pencil-modern-ui`;
